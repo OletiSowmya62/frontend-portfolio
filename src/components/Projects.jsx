@@ -39,8 +39,8 @@ const projects = [
     description:
       "Personal portfolio built with React showcasing projects, skills, and experience.",
     tech: "React • Bootstrap • React Icons",
-    github: "https://github.com/sowmyaoleti118/portfolio",
-    demo: "https://yourportfolio.vercel.app",
+    github: "https://github.com/OletiSowmya62/frontend-portfolio",
+    demo: "https://frontend-portfolio-bay-six.vercel.app/",
   },
 ];
 
