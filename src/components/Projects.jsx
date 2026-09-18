@@ -19,10 +19,10 @@ const projects = [
     title: "Weather Dashboard",
     image: weather,
     description:
-      "Weather application using OpenWeather API with city search and responsive UI.",
-    tech: "React • REST API • CSS",
-    github: "https://github.com/sowmyaoleti118/weather-app",
-    demo: "https://weather-app.vercel.app",
+      "A responsive React weather dashboard that delivers live weather data, detailed forecasts, and a polished user experience through modern UI design and API-driven functionality.",
+    tech: "React.js • JavaScript • Vite • Axios • CSS3 • OpenWeather API • Context API • localStorage • Geolocation API • GitHub • Vercel",
+    github: "https://github.com/OletiSowmya62/weather-dashboard",
+    demo: "https://weather-dashboard-4y1u954ji-oletisowmya62.vercel.app/",
   },
   {
     title: "Movie Search App",
