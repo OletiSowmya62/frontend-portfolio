@@ -22,7 +22,7 @@ const projects = [
       "A responsive React weather dashboard that delivers live weather data, detailed forecasts, and a polished user experience through modern UI design and API-driven functionality.",
     tech: "React.js • JavaScript • Vite • Axios • CSS3 • OpenWeather API • Context API • localStorage • Geolocation API • GitHub • Vercel",
     github: "https://github.com/OletiSowmya62/weather-dashboard",
-    demo: "https://weather-dashboard-4y1u954ji-oletisowmya62.vercel.app/",
+    demo: "https://weather-dashboard-gamma-wheat.vercel.app/",
   },
   {
     title: "Movie Search App",
