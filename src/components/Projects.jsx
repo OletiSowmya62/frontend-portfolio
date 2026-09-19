@@ -28,10 +28,10 @@ const projects = [
     title: "Movie Search App",
     image: movie,
     description:
-      "Search movies using TMDB API with detailed movie information and responsive layout.",
-    tech: "React • API • Bootstrap",
-    github: "https://github.com/sowmyaoleti118/movie-app",
-    demo: "https://movie-app.vercel.app",
+      "A responsive movie discovery platform that lets users search TMDB titles, browse trending movies, filter results by rating and release details, sort content, and save favorites with a persistent watchlist.",
+    tech: "React • Vite • JavaScript • Axios • TMDB API • Context API • CSS3 • localStorage • Responsive UI",
+    github: "https://github.com/OletiSowmya62/movie-search-app.git",
+    demo: "https://movie-search-app-one-fawn.vercel.app/",
   },
   {
     title: "Portfolio Website",
